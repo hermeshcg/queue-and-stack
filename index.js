@@ -1,3 +1,3 @@
-module.exports = function (str) {
-  return str + ' - Caralho';
+module.exports = function (x, y) {
+  return x + y;
 };
