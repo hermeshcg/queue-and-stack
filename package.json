@@ -1,0 +1,8 @@
+{
+  "name": "teste-modulo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hermeshcg/teste-modulo.git",
+  "author": "Hermes Caretta <hermescaretta@gmail.com>",
+  "license": "MIT"
+}
