@@ -1,19 +1,3 @@
-function sum(x, y) {
-  return x + y;
-}
-
-function sub(x, y) {
-  return x - y;
-}
-
-function div(x, y) {
-  return x / y;
-}
-
-function mult(x, y) {
-  return x * y;
-}
-
 function Queue() {
   const data = [];
 
@@ -67,4 +51,4 @@ class Pilha {
   }
 }
 
-module.exports = { sum, sub, mult, div, Queue, Pilha };
+module.exports = { Queue, Pilha };
